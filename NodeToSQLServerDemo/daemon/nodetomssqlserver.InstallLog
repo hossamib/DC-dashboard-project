@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\SE-Projects\Node_Projects\DC-dashboard-project\NodeToSQLServerDemo\daemon\nodetomssqlserver.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE-Projects\Node_Projects\DC-dashboard-project\NodeToSQLServerDemo\daemon\nodetomssqlserver.InstallLog
+   assemblypath = D:\SE-Projects\Node_Projects\DC-dashboard-project\NodeToSQLServerDemo\daemon\nodetomssqlserver.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\SE-Projects\Node_Projects\DC-dashboard-project\NodeToSQLServerDemo\daemon\nodetomssqlserver.exe assembly.
+Committing assembly 'D:\SE-Projects\Node_Projects\DC-dashboard-project\NodeToSQLServerDemo\daemon\nodetomssqlserver.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE-Projects\Node_Projects\DC-dashboard-project\NodeToSQLServerDemo\daemon\nodetomssqlserver.InstallLog
+   assemblypath = D:\SE-Projects\Node_Projects\DC-dashboard-project\NodeToSQLServerDemo\daemon\nodetomssqlserver.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\SE-Projects\Node_Projects\DC-dashboard-project\NodeToSQLServerDemo\daemon\nodetomssqlserver.exe assembly.
+Remove InstallState file because there are no installers.
